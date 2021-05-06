@@ -13,8 +13,8 @@
         "Country": "Netherlands",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/11.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/11.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -32,8 +32,8 @@
         "Country": "Chile",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/17.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/17.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -51,8 +51,8 @@
         "Country": "Bahrain",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/94.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/94.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -70,8 +70,8 @@
         "Country": "Dominica",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/58.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/58.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -89,8 +89,8 @@
         "Country": "Syria",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/women/14.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -108,8 +108,8 @@
         "Country": "Fiji",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/men/95.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/men/95.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -127,8 +127,8 @@
         "Country": "Zimbabwe",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/men/10.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/men/10.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -146,8 +146,8 @@
         "Country": "Netherlands Antilles",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/men/8.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/men/8.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -165,8 +165,8 @@
         "Country": "Faroe Islands",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/men/62.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/men/62.jpg",
+                "IsMain": true
             }
         ]
     },
@@ -184,8 +184,8 @@
         "Country": "Gibraltar",
         "Photos": [
             {
-                "url": "https://randomuser.me/api/portraits/men/88.jpg",
-                "isMain": true
+                "Url": "https://randomuser.me/api/portraits/men/88.jpg",
+                "IsMain": true
             }
         ]
     }
